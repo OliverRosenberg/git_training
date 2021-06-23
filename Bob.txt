@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi! I'm Bob. I have been here for a while now.
+=======
+Hi!! I'm Bobby. I'm new here.
+>>>>>>> bobby_branch
 New text line Bob.
 new line for master.
