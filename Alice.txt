@@ -2,4 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 New text line from Alice.
 Change_alice text.
 hi.
+<<<<<<< HEAD
 changess.
+=======
+changest.
+>>>>>>> c8e25bce8b4ddde7313cdb03fd000457900a4b94
